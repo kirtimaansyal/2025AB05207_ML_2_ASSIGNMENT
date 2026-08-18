@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction – Machine Learning Project  
 ### BITS Pilani – Assignment 2  
-Submitted by: PALADI S G VENKATA VIJAY
+Submitted by: KIRTIMAAN SYAL
 
 📌 Project Overview  
 This project builds a Machine Learning system to predict Heart Disease using the UCI Heart Dataset.
@@ -175,7 +175,7 @@ streamlit run heart_app.py
 ---
 
 ## 📝 Author  
-Paladi S G Venkata Vijay
+KIRTIMAAN SYAL
 BITS Pilani – WILP  
 
 
